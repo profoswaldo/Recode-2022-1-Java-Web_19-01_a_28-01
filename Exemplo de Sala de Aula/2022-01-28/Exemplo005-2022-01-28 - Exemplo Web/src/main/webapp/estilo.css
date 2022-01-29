@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+h1{
+  font-style: bold;
+  color: #0018ff;
+}
+
+h2{
+  font-style: italic;
+  color: #8B0000;
+}
+
+body
+{
+    background-color: #F0E68C;
+}
+
